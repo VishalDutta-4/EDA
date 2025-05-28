@@ -1,0 +1,626 @@
+[
+  {
+    "b": 667,
+    "info_src_url": "https://labs.withsecure.com/publications/darkgate-malware-campaign",
+    "target region": " India",
+    "target_sector": "Digital Marketing, Facebook Business Accounts"
+  },
+  {
+    "b": 692,
+    "info_src_url": "https://research.checkpoint.com/2023/israel-hamas-war-spotlight-shaking-the-rust-off-sysjoker/",
+    "target region": "Israel",
+    "target_sector": "Various Sectors"
+  },
+  {
+    "b": 699,
+    "info_src_url": "https://www.seqrite.com/blog/operation-rusticweb-targets-indian-govt-from-rust-based-malware-to-web-service-exfiltration/",
+    "target region": "India",
+    "target_sector": "Government"
+  },
+  {
+    "b": 705,
+    "info_src_url": "https://www.netskope.com/blog/a-look-at-the-nim-based-campaign-using-microsoft-word-docs-to-impersonate-the-nepali-government",
+    "target region": "Nepal",
+    "target_sector": "Government"
+  },
+  {
+    "b": 733,
+    "info_src_url": "https://securelist.com/toddycat-keep-calm-and-check-logs/110696/",
+    "target region": "Asia",
+    "target_sector": "Government, Military"
+  },
+  {
+    "b": 738,
+    "info_src_url": "https://medium.com/s2wblog/kimsuky-disguised-as-a-korean-company-signed-with-a-valid-certificate-to-distribute-troll-stealer-cfa5d54314e2",
+    "target region": "South Korea",
+    "target_sector": "Various Sectors"
+  },
+  {
+    "b": 753,
+    "info_src_url": "https://www.mandiant.com/resources/blog/suspected-iranian-unc1549-targets-israel-middle-east",
+    "target region": "Israel",
+    "target_sector": "Government, Energy"
+  },
+  {
+    "b": 765,
+    "info_src_url": "https://asec.ahnlab.com/en/62853/",
+    "target region": "South Korea",
+    "target_sector": "Various Sectors"
+  },
+  {
+    "b": 775,
+    "info_src_url": "https://www.trendmicro.com/en_us/research/24/c/earth-krahang.html",
+    "target region": "Southeast Asia ",
+    "target_sector": "Government Entities"
+  },
+  {
+    "b": 786,
+    "info_src_url": "https://www.rapid7.com/blog/post/2024/03/20/the-updated-apt-playbook-tales-from-the-kimsuky-threat-actor-group/",
+    "target region": "South Korea",
+    "target_sector": "Government Entities, Individuals Associated with Korean Peninsula's Unification"
+  },
+  {
+    "b": 788,
+    "info_src_url": "https://asec.ahnlab.com/ko/62117/",
+    "target region": "South Korea",
+    "target_sector": "Various sectors (unspecified)"
+  },
+  {
+    "b": 792,
+    "info_src_url": "https://asec.ahnlab.com/en/63477/",
+    "target region": "South Korea",
+    "target_sector": "Various sectors (unspecified)"
+  },
+  {
+    "b": 794,
+    "info_src_url": "https://www.resecurity.com/blog/article/the-new-version-of-jsoutprox-is-attacking-financial-institutions-in-apac-and-mena-via-gitlab-abuse",
+    "target region": "APAC",
+    "target_sector": "Financial Institutions"
+  },
+  {
+    "b": 794,
+    "info_src_url": "https://www.resecurity.com/blog/article/the-new-version-of-jsoutprox-is-attacking-financial-institutions-in-apac-and-mena-via-gitlab-abuse",
+    "target region": "MENA",
+    "target_sector": "Financial Institutions"
+  },
+  {
+    "b": 798,
+    "info_src_url": "https://securelist.com/dinodasrat-linux-implant/112284/",
+    "target region": "China",
+    "target_sector": "Various sectors (unspecified)"
+  },
+  {
+    "b": 798,
+    "info_src_url": "https://securelist.com/dinodasrat-linux-implant/112284/",
+    "target region": "Taiwan ",
+    "target_sector": "Various sectors (unspecified)"
+  },
+  {
+    "b": 798,
+    "info_src_url": "https://securelist.com/dinodasrat-linux-implant/112284/",
+    "target region": "Turkey",
+    "target_sector": "Various sectors (unspecified)"
+  },
+  {
+    "b": 798,
+    "info_src_url": "https://securelist.com/dinodasrat-linux-implant/112284/",
+    "target region": "Uzbekistan",
+    "target_sector": "Various sectors (unspecified)"
+  },
+  {
+    "b": 803,
+    "info_src_url": "https://blog.talosintelligence.com/coralraider-targets-socialmedia-accounts/",
+    "target region": "Asia",
+    "target_sector": "Social Media, Financial Data"
+  },
+  {
+    "b": 805,
+    "info_src_url": "https://bi.zone/eng/expertise/blog/davayte-sverimsya-kak-fluffy-wolf-ispolzuet-akty-sverki-v-atakakh/",
+    "target region": "Asia-Pacific",
+    "target_sector": "Technology, Research, Government"
+  },
+  {
+    "b": 809,
+    "info_src_url": "https://cyble.com/blog/fatalrats-new-prey-cryptocurrency-users-in-the-crosshairs/",
+    "target region": "Israel",
+    "target_sector": "Multinational Organizations"
+  },
+  {
+    "b": 818,
+    "info_src_url": "https://blog.talosintelligence.com/suspected-coralraider-continues-to-expand-victimology-using-three-information-stealers/",
+    "target region": "South ",
+    "target_sector": "Retail, Manufacturing, Education"
+  },
+  {
+    "b": 818,
+    "info_src_url": "https://blog.talosintelligence.com/suspected-coralraider-continues-to-expand-victimology-using-three-information-stealers/",
+    "target region": " Southeast Asia",
+    "target_sector": "Retail, Manufacturing, Education"
+  },
+  {
+    "b": 821,
+    "info_src_url": "https://asec.ahnlab.com/ko/64421/",
+    "target region": "South Korea",
+    "target_sector": "Corporate (General)"
+  },
+  {
+    "b": 824,
+    "info_src_url": "http://blog.xlab.qianxin.com/playing-possum-whats-the-wpeeper-backdoor-up-to",
+    "target region": "East Asia (Primarily China)",
+    "target_sector": "Unknown (Backdoor under analysis)"
+  },
+  {
+    "b": 825,
+    "info_src_url": "https://www.securonix.com/blog/securonix-threat-research-security-advisory-new-deepgosu-attack-campaign/",
+    "target region": "South Korea",
+    "target_sector": "IT, Finance"
+  },
+  {
+    "b": 835,
+    "info_src_url": "https://www.trendmicro.com/en_in/research/24/c/unveiling-earth-kapre-aka-redcurls-cyberespionage-tactics-with-t.html",
+    "target region": "Russia",
+    "target_sector": "Corporate (HR, PR, Finance)"
+  },
+  {
+    "b": 835,
+    "info_src_url": "https://www.trendmicro.com/en_in/research/24/c/unveiling-earth-kapre-aka-redcurls-cyberespionage-tactics-with-t.html",
+    "target region": "Central Asia",
+    "target_sector": "Corporate (HR, PR, Finance)"
+  },
+  {
+    "b": 837,
+    "info_src_url": "https://asec.ahnlab.com/en/65076/",
+    "target region": "South Korea",
+    "target_sector": "Corporates (Manufacturing, Defense)"
+  },
+  {
+    "b": 840,
+    "info_src_url": "https://securelist.com/toddycat-traffic-tunneling-data-extraction-tools/112443/",
+    "target region": "Southeast Asia",
+    "target_sector": "Government, Telecom"
+  },
+  {
+    "b": 843,
+    "info_src_url": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/springtail-kimsuky-backdoor-espionage",
+    "target region": "South Korea",
+    "target_sector": "Government, Think Tanks"
+  },
+  {
+    "b": 847,
+    "info_src_url": "https://www.welivesecurity.com/en/eset-research/moon-backdoors-lunar-landing-diplomatic-missions/",
+    "target region": "Asia",
+    "target_sector": "Diplomatic Missions"
+  },
+  {
+    "b": 849,
+    "info_src_url": "https://asec.ahnlab.com/en/65426/",
+    "target region": "South Korea",
+    "target_sector": "Corporate Sector"
+  },
+  {
+    "b": 850,
+    "info_src_url": "https://www.bitdefender.com/blog/businessinsights/deep-dive-into-unfading-sea-haze-a-new-threat-actor-in-the-south-china-sea/",
+    "target region": "South China Sea Nations",
+    "target_sector": "Government, Military"
+  },
+  {
+    "b": 855,
+    "info_src_url": "https://blogs.blackberry.com/en/2024/05/transparent-tribe-targets-indian-government-defense-and-aerospace-sectors",
+    "target region": "India",
+    "target_sector": "Government, Defense, Aerospace"
+  },
+  {
+    "b": 857,
+    "info_src_url": "https://asec.ahnlab.com/ko/65918/",
+    "target region": "South Korea",
+    "target_sector": "Enterprises (Various)"
+  },
+  {
+    "b": 859,
+    "info_src_url": "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/hellhounds-operation-lahat-part-2/",
+    "target region": "Middle East",
+    "target_sector": "Government, Military"
+  },
+  {
+    "b": 859,
+    "info_src_url": "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/hellhounds-operation-lahat-part-2/",
+    "target region": " South Asia",
+    "target_sector": "Government, Military"
+  },
+  {
+    "b": 861,
+    "info_src_url": "https://cert.pl/en/posts/2024/05/apt28-campaign/",
+    "target region": " Asia",
+    "target_sector": "Diplomats, Government Officials"
+  },
+  {
+    "b": 862,
+    "info_src_url": "https://go.recordedfuture.com/hubfs/reports/CTA-RU-2024-0530.pdf",
+    "target region": "South Korea",
+    "target_sector": "Government, Intelligence"
+  },
+  {
+    "b": 865,
+    "info_src_url": "https://blog.cloudflare.com/disrupting-flyingyeti-campaign-targeting-ukraine",
+    "target region": "Middle East",
+    "target_sector": "Government, Critical Infrastructure"
+  },
+  {
+    "b": 865,
+    "info_src_url": "https://blog.cloudflare.com/disrupting-flyingyeti-campaign-targeting-ukraine",
+    "target region": " South Asia",
+    "target_sector": "Government, Critical Infrastructure"
+  },
+  {
+    "b": 866,
+    "info_src_url": "https://news.sophos.com/en-us/2024/06/05/operation-crimson-palace-a-technical-deep-dive/",
+    "target region": "East Asia",
+    "target_sector": "Gaming Industry"
+  },
+  {
+    "b": 871,
+    "info_src_url": "https://www.zscaler.com/blogs/security-research/technical-analysis-latest-variant-valleyrat",
+    "target region": "South Korea",
+    "target_sector": "Businesses (Various Sectors)"
+  },
+  {
+    "b": 875,
+    "info_src_url": "https://www.volexity.com/blog/2024/06/13/disgomoji-malware-used-to-target-indian-government/",
+    "target region": "South Korea",
+    "target_sector": "Government, Media"
+  },
+  {
+    "b": 879,
+    "info_src_url": "https://blog.talosintelligence.com/cosmic-leopard/",
+    "target region": "China",
+    "target_sector": "DNS Infrastructure, Enterprises"
+  },
+  {
+    "b": 882,
+    "info_src_url": "https://blog.lumen.com/the-pumpkin-eclipse/",
+    "target region": "Japan",
+    "target_sector": "Enterprises (Various)"
+  },
+  {
+    "b": 884,
+    "info_src_url": "https://www.trellix.com/blogs/research/how-attackers-repackaged-a-threat-into-something-that-looked-benign/",
+    "target region": "Vietnam",
+    "target_sector": "Government"
+  },
+  {
+    "b": 884,
+    "info_src_url": "https://www.trellix.com/blogs/research/how-attackers-repackaged-a-threat-into-something-that-looked-benign/",
+    "target region": "Asia-Pacific",
+    "target_sector": "Government"
+  },
+  {
+    "b": 887,
+    "info_src_url": "https://symantec-enterprise-blogs.security.com/threat-intelligence/telecoms-espionage-asia",
+    "target region": "India",
+    "target_sector": "Military"
+  },
+  {
+    "b": 889,
+    "info_src_url": "https://cyble.com/blog/uac-0184-abuses-python-in-dll-sideloading-for-xworm-distribution/",
+    "target region": "South Korea",
+    "target_sector": "Defense"
+  },
+  {
+    "b": 889,
+    "info_src_url": "https://cyble.com/blog/uac-0184-abuses-python-in-dll-sideloading-for-xworm-distribution/",
+    "target region": " USA",
+    "target_sector": "Defense"
+  },
+  {
+    "b": 890,
+    "info_src_url": "https://cloud.google.com/blog/topics/threat-intelligence/uncovering-unc3886-espionage-operations",
+    "target region": "South Korea",
+    "target_sector": "Defense, Aerospace"
+  },
+  {
+    "b": 897,
+    "info_src_url": "https://outpost24.com/blog/unfurling-hemlock-cluster-bomb-campaign/",
+    "target region": "Southeast Asia",
+    "target_sector": "Hospitality, Travel Agencies"
+  },
+  {
+    "b": 899,
+    "info_src_url": "https://asec.ahnlab.com/en/67558/",
+    "target region": "Southeast Asia",
+    "target_sector": "Government, Diplomatic Orgs"
+  },
+  {
+    "b": 899,
+    "info_src_url": "https://asec.ahnlab.com/en/67558/",
+    "target region": " Europe",
+    "target_sector": "Government, Diplomatic Orgs"
+  },
+  {
+    "b": 905,
+    "info_src_url": "https://blog.phylum.io/persistent-npm-campaign-shipping-trojanized-jquery/",
+    "target region": "Southeast Asia",
+    "target_sector": "Government"
+  },
+  {
+    "b": 906,
+    "info_src_url": "https://www.trellix.com/blogs/research/the-mechanics-of-vipersofts-exploiting-autoit-and-clr-for-stealthy-powershell-execution/",
+    "target region": "Iran",
+    "target_sector": "Activists, Dissidents"
+  },
+  {
+    "b": 908,
+    "info_src_url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs",
+    "target region": "China",
+    "target_sector": "Ethnic Minorities"
+  },
+  {
+    "b": 912,
+    "info_src_url": "https://unit42.paloaltonetworks.com/darkgate-malware-uses-excel-files/",
+    "target region": "Southeast Asia",
+    "target_sector": "Online Gambling"
+  },
+  {
+    "b": 913,
+    "info_src_url": "https://www.trendmicro.com/en_us/research/24/g/CVE-2024-38112-void-banshee.html",
+    "target region": "Japan",
+    "target_sector": "Industrial, Manufacturing"
+  },
+  {
+    "b": 914,
+    "info_src_url": "https://research.checkpoint.com/2024/new-bugsleep-backdoor-deployed-in-recent-muddywater-campaigns/",
+    "target region": "Tibet",
+    "target_sector": "Activists, NGOs"
+  },
+  {
+    "b": 914,
+    "info_src_url": "https://research.checkpoint.com/2024/new-bugsleep-backdoor-deployed-in-recent-muddywater-campaigns/",
+    "target region": "India",
+    "target_sector": "Activists, NGOs"
+  },
+  {
+    "b": 916,
+    "info_src_url": "https://www.sentinelone.com/labs/fin7-reboot-cybercrime-gang-enhances-ops-with-new-edr-bypasses-and-automated-attacks/",
+    "target region": "South Asia",
+    "target_sector": "Government"
+  },
+  {
+    "b": 922,
+    "info_src_url": "https://symantec-enterprise-blogs.security.com/threat-intelligence/daggerfly-espionage-updated-toolset",
+    "target region": "South Korea",
+    "target_sector": "Education, Research"
+  },
+  {
+    "b": 926,
+    "info_src_url": "https://cyware.com/resources/research-and-analysis/behind-the-code-deciphering-the-evolution-of-agent-tesla-malware-24d5",
+    "target region": "South Korea",
+    "target_sector": "Cryptocurrency Industry"
+  },
+  {
+    "b": 927,
+    "info_src_url": "https://cyble.com/blog/operation-shadowcat-targeting-indian-political-observers-via-a-stealthy-rat/",
+    "target region": "South Korea",
+    "target_sector": "Defectors, Government"
+  },
+  {
+    "b": 931,
+    "info_src_url": "https://www.group-ib.com/blog/gxc-team-unmasked/",
+    "target region": "India",
+    "target_sector": "Defense"
+  },
+  {
+    "b": 932,
+    "info_src_url": "https://cloud.google.com/blog/topics/threat-intelligence/unc4393-goes-gently-into-silentnight",
+    "target region": "Asia",
+    "target_sector": "Government, NGOs"
+  },
+  {
+    "b": 954,
+    "info_src_url": "https://blog.google/threat-analysis-group/iranian-backed-group-steps-up-phishing-campaigns-against-israel-us/",
+    "target region": "Israel",
+    "target_sector": "Government, Military, Academics, Journalists, Humanitarian Organizations"
+  },
+  {
+    "b": 954,
+    "info_src_url": "https://blog.google/threat-analysis-group/iranian-backed-group-steps-up-phishing-campaigns-against-israel-us/",
+    "target region": "United States",
+    "target_sector": "Government, Military, Academics, Journalists, Humanitarian Organizations"
+  },
+  {
+    "b": 955,
+    "info_src_url": "https://bi.zone/expertise/blog/bloody-wolf-primenyaet-kommercheskoe-vpo-strrat-protiv-organizatsiy-v-kazakhstane/",
+    "target region": "Kazakhstan",
+    "target_sector": "Various organizations (general, specific sectors not detailed)"
+  },
+  {
+    "b": 976,
+    "info_src_url": "https://ti.qianxin.com/blog/articles/analysis-of-new-variants-and-components-of-patchwork-spyder-downloader-en/",
+    "target region": "South Asia (specifically India, Pakistan, Bangladesh)",
+    "target_sector": "Government, Military, Diplomatic, Infrastructure"
+  },
+  {
+    "b": 981,
+    "info_src_url": "https://cloud.google.com/blog/topics/threat-intelligence/uncovering-iranian-counterintelligence-operation",
+    "target region": "Iran (internal targets/opponents of the regime)",
+    "target_sector": "Dissidents, activists, foreign-linked individuals/groups (counterintelligence focus)"
+  },
+  {
+    "b": 1003,
+    "info_src_url": "https://securelist.com/new-tropic-trooper-web-shell-infection/113737/",
+    "target region": "East Asia (specifically South Korea, Japan, Taiwan, China)",
+    "target_sector": "Government, High-tech, Education, Gambling"
+  },
+  {
+    "b": 1005,
+    "info_src_url": "https://ti.qianxin.com/blog/articles/operation-deviltiger-0day-vulnerability-techniques-and-tactics-used-by-apt-q-12-disclosed-en/",
+    "target region": "Southeast Asia",
+    "target_sector": "Government, Military, Telecommunications, Critical Infrastructure"
+  },
+  {
+    "b": 1005,
+    "info_src_url": "https://ti.qianxin.com/blog/articles/operation-deviltiger-0day-vulnerability-techniques-and-tactics-used-by-apt-q-12-disclosed-en/",
+    "target region": " South Asia",
+    "target_sector": "Government, Military, Telecommunications, Critical Infrastructure"
+  },
+  {
+    "b": 1005,
+    "info_src_url": "https://ti.qianxin.com/blog/articles/operation-deviltiger-0day-vulnerability-techniques-and-tactics-used-by-apt-q-12-disclosed-en/",
+    "target region": "East Asia",
+    "target_sector": "Government, Military, Telecommunications, Critical Infrastructure"
+  },
+  {
+    "b": 1023,
+    "info_src_url": "https://cloud.google.com/blog/topics/threat-intelligence/unc1860-iran-middle-eastern-networks/",
+    "target region": "Iran",
+    "target_sector": "Government, Telecommunications, Technology, Academia"
+  },
+  {
+    "b": 1023,
+    "info_src_url": "https://cloud.google.com/blog/topics/threat-intelligence/unc1860-iran-middle-eastern-networks/",
+    "target region": " Middle East",
+    "target_sector": "Government, Telecommunications, Technology, Academia"
+  },
+  {
+    "b": 1128,
+    "info_src_url": "https://www.trendmicro.com/en_us/research/24/k/lodeinfo-campaign-of-earth-kasha.html",
+    "target region": "Global (Asia focus)",
+    "target_sector": "Financial / Cybercrime"
+  },
+  {
+    "b": 1131,
+    "info_src_url": "https://www.sentinelone.com/labs/operation-digital-eye-chinese-apt-compromises-critical-digital-infrastructure-via-visual-studio-code-tunnels/",
+    "target region": "China",
+    "target_sector": "Critical Infrastructure / Espionage"
+  },
+  {
+    "b": 1148,
+    "info_src_url": "https://securelist.com/lazarus-new-malware/115059/",
+    "target region": "North Korea ",
+    "target_sector": "Espionage / Cybercrime"
+  },
+  {
+    "b": 1152,
+    "info_src_url": "https://jp.security.ntt/tech_blog/contagious-interview-ottercookie",
+    "target region": "Japan",
+    "target_sector": "Malware / Espionage"
+  },
+  {
+    "b": 1152,
+    "info_src_url": "https://jp.security.ntt/tech_blog/contagious-interview-ottercookie",
+    "target region": "Asia",
+    "target_sector": "Malware / Espionage"
+  },
+  {
+    "b": 1158,
+    "info_src_url": "https://www.picussecurity.com/resource/blog/exposing-the-steps-of-the-kimsuky-apt-group",
+    "target region": "South Korea",
+    "target_sector": "Espionage / Government"
+  },
+  {
+    "b": 1159,
+    "info_src_url": "https://blog.xlab.qianxin.com/gayfemboy-en/",
+    "target region": "China",
+    "target_sector": "Espionage / Cybercrime"
+  },
+  {
+    "b": 1167,
+    "info_src_url": "https://asec.ahnlab.com/en/85400/",
+    "target region": "South Korea",
+    "target_sector": "Malware / Cybercrime"
+  },
+  {
+    "b": 1181,
+    "info_src_url": "https://www.welivesecurity.com/en/eset-research/plushdaemon-compromises-supply-chain-korean-vpn-service/",
+    "target region": "South Korea",
+    "target_sector": "Supply Chain / VPN Services"
+  },
+  {
+    "b": 1182,
+    "info_src_url": "https://asec.ahnlab.com/en/85798/",
+    "target region": "South Korea",
+    "target_sector": "Malware / Cybercrime"
+  },
+  {
+    "b": 1187,
+    "info_src_url": "https://asec.ahnlab.com/en/85942",
+    "target region": "South Korea",
+    "target_sector": "Malware / Cybercrime"
+  },
+  {
+    "b": 1191,
+    "info_src_url": "https://www.bitdefender.com/en-us/blog/businessinsights/uac-0063-cyber-espionage-operation-expanding-from-central-asia",
+    "target region": "Central Asia",
+    "target_sector": "Espionage / Government"
+  },
+  {
+    "b": 1193,
+    "info_src_url": "https://securityscorecard.com/blog/operation-phantom-circuit-north-koreas-global-data-exfiltration-campaign/",
+    "target region": "North Korea ",
+    "target_sector": "Espionage / Cybercrime"
+  },
+  {
+    "b": 1207,
+    "info_src_url": "https://blogs.jpcert.or.jp/ja/2025/02/spawnchimera.html",
+    "target region": "Japan",
+    "target_sector": "Espionage / Malware"
+  },
+  {
+    "b": 1208,
+    "info_src_url": "https://www.trendmicro.com/en_in/research/25/b/chinese-speaking-group-manipulates-seo-with-badiis.html",
+    "target region": "China",
+    "target_sector": "Espionage / SEO Manipulation"
+  },
+  {
+    "b": 1209,
+    "info_src_url": "https://www.morphisec.com/blog/rat-race-valleyrat-malware-china/",
+    "target region": "China",
+    "target_sector": "Malware / Espionage"
+  },
+  {
+    "b": 1210,
+    "info_src_url": "https://www.esentire.com/blog/unraveling-the-many-stages-and-techniques-used-by-redcurl-earthkapre-apt",
+    "target region": "India ",
+    "target_sector": "Espionage / APT"
+  },
+  {
+    "b": 1218,
+    "info_src_url": "https://www.securonix.com/blog/analyzing-deepdrive-north-korean-threat-actors-observed-exploiting-trusted-platforms-for-targeted-attacks/",
+    "target region": "North Korea",
+    "target_sector": "Espionage / Cybercrime"
+  },
+  {
+    "b": 1222,
+    "info_src_url": "https://asec.ahnlab.com/en/86390/",
+    "target region": "South Korea",
+    "target_sector": "Malware / Cybercrime"
+  },
+  {
+    "b": 1235,
+    "info_src_url": "https://blog.talosintelligence.com/lotus-blossom-espionage-group/",
+    "target region": "China",
+    "target_sector": "Espionage / Government"
+  },
+  {
+    "b": 1287,
+    "info_src_url": "https://securelist.com/toddycat-apt-exploits-vulnerability-in-eset-software-for-dll-proxying/116086/",
+    "target region": "Asia (South Korea)",
+    "target_sector": "Security Software / APT Targets"
+  },
+  {
+    "b": 1302,
+    "info_src_url": "https://www.zscaler.com/blogs/security-research/latest-mustang-panda-arsenal-paklog-corklog-and-splatcloak-p2#indicators-of-compromise--iocs-",
+    "target region": "China",
+    "target_sector": "Cyber Espionage / Government & Industry"
+  },
+  {
+    "b": 1315,
+    "info_src_url": "https://www.trendmicro.com/en_in/research/25/d/russian-infrastructure-north-korean-cybercrime.html",
+    "target region": "Russia",
+    "target_sector": "Critical Infrastructure / Cybercrime"
+  },
+  {
+    "b": 1315,
+    "info_src_url": "https://www.trendmicro.com/en_in/research/25/d/russian-infrastructure-north-korean-cybercrime.html",
+    "target region": "North Korea",
+    "target_sector": "Critical Infrastructure / Cybercrime"
+  }
+]
